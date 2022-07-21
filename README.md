@@ -1,20 +1,16 @@
-<p align="center">
+
 ### Payflow :D
 15 yo (2006)
   
 <img alt="" src=https://lanyard.cnrad.dev/api/986371701979902042/>
- 
-<img alt="" src=[https://lanyard.cnrad.dev/api/840541540203626516](https://github-readme-stats.vercel.app/api?username=payfloww&count_private=true&layout=compact&theme=tokyonight)/>
 
-
----
 
 <details>
 <summary>Information</summary>
 <br>
 Im probably smarter than you. <33
 </details>
-</p>
+
 
 
 
